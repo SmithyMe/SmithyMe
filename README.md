@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @SmithyMe or just Luke
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and AWS basics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in becoming a developer and getting my first job
+- 🌱 I’m currently working through the OdinProject
+- 💞️ I’m looking to collaborate on nothing quite yet
 - 📫 How to reach me: lssmith9916@gmail.com
 
 <!---
